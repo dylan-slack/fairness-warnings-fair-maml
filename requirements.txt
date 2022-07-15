@@ -37,7 +37,7 @@ cytoolz==0.10.0
 dask==2.1.0
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.1.0
+distributed==2021.10.0
 docloud==1.0.257
 docopt==0.6.2
 docplex==2.4.61
